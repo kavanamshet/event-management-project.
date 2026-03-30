@@ -68,12 +68,6 @@ This project is developed as part of a **DBMS Mini Project (BCS403)** for academ
 
 ---
 
-## 👩‍💻 Author
-**Kavana M Shet**  
-Computer Science and Data Science Student  
-
----
-
 ## 📌 Conclusion
 This project demonstrates how database systems can be effectively used to manage real-world event operations in an organized and efficient manner.
 
