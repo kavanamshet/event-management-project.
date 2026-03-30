@@ -1,7 +1,5 @@
-# event-management-project.
-“A DBMS-based event management system that efficiently handles event creation, participant registration, and coordinator management using structured database design and intuitive user interfaces.
-
 # 🎉 Event Management System
+“A DBMS-based event management system that efficiently handles event creation, participant registration, and coordinator management using structured database design and intuitive user interfaces.
 
 ## 📌 Overview
 This project is a **DBMS-based Event Management System** developed to efficiently manage event-related activities such as event creation, participant registration, and coordinator management. It uses structured database design to ensure smooth handling of event data.
